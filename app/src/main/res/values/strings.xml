@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora del Trica</string>
+    <array name="calificaciones">
+        <item>A: 30% T + 70% L </item>
+        <item>B: 40% T + 60% L </item>
+        <item>A: 20% T + 80% L </item>
+    </array>
+</resources>
